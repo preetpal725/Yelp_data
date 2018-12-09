@@ -1,0 +1,24 @@
+GETTING STARTED: 
+You need to run this file on command line using the script:
+
+[Enter] python balanced_yelp_project.py yelp.csv 2
+
+Where, ' balanced_yelp_project.py' is the python file, 'yelp.csv' is the csv file and 2 can be the n-gram that user want to use.
+
+
+PREREQUISITES:
+You can just run this file on command line using the script provided.
+
+
+INSTALLING:
+Open the command line.
+Change the directory to the one where the python and csv file is located.
+Run the script provided.
+You might also need a python tool such as spyder to run the python code.
+
+REFERENCE:
+
+https://www.kaggle.com/omkarsabnis/yelp-reviews-dataset
+
+
+GITHUB URL:
